@@ -16,11 +16,12 @@ Here are the technologies used in this project.
 * Ruby version  2.5.1
 * Ruby on Rails 5.2
 * Docker 
-* Github
 * Redis
-* Foundation For Emails2
-* Nginx
 * PostgreSql
+* Rpec
+* Github
+* Nginx
+* Foundation For Emails2
 * Code ship
 * Digital Ocean
 
@@ -33,6 +34,10 @@ Here are the technologies used in this project.
 * Sidekiq
 * Inky-rb
 * Premailer-rails
+* Rspec-rails
+* Byebug
+* Ffaker
+* Factory_bot_rails
 
 
 ## Features
