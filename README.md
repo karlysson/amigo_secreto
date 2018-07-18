@@ -1,5 +1,7 @@
 
-![Logo of the project](https://raw.githubusercontent.com/karlysson/amigo_secreto/master/public/logo.png)
+![Logo of the project](https://raw.githubusercontent.com/karlysson/amigo_secreto/master/app/assets/images/logo.png)
+
+
 
 # Amigo Secreto
 
