@@ -1,24 +1,56 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Logo of the project](https://raw.githubusercontent.com/karlysson/amigo_secreto/master/public/logo.png)
 
-Things you may want to cover:
+# Amigo Secreto
 
-* Ruby version
+This application is for managing the secret friend play.
+If you go to play secret friend we do the lottery, notifications who left with whom for you, quickly, easy and elegant.
 
-* System dependencies
 
-* Configuration
+## Technology 
 
-* Database creation
+Here are the technologies used in this project.
 
-* Database initialization
+* Ruby version  2.5.1
+* Ruby on Rails 5.2
+* Docker 
+* Github
+* Redis
+* Foundation For Emails2
+* Nginx
+* PostgreSql
+* Code ship
+* Digital Ocean
 
-* How to run the test suite
+## Ruby Gems
 
-* Services (job queues, cache servers, search engines, etc.)
+* Devise
+* Materialize-sass
+* Material_icons
+* Redis
+* Sidekiq
+* Inky-rb
+* Premailer-rails
 
-* Deployment instructions
 
-* ...
+## Features
+
+The main features of the application are;
+
+* Manage members.
+* Luck, who left with whom.
+* Notify, with whom you left.
+
+Future features
+
+* Mural of desired gift.
+
+## Links
+
+- Project homepage: http://45.55.60.56:81
+- Repository: https://github.com/karlysson/amigo_secreto
+  - In case of sensitive bugs like security vulnerabilities, please contact
+    karlysson.alves@gmail.com directly instead of using issue tracker. We value your effort
+    to improve the security and privacy of this project!
+
+
